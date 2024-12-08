@@ -1,10 +1,3 @@
-<div align="center">
-  
-  ![GitHub repo size](https://img.shields.io/github.com/DhyanBhandari)
- 
-
-  <br />
-  <br />
 
   <h2 align="center">TripCo Website Template</h2>
 </div>
